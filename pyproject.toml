@@ -9,7 +9,7 @@ description = "Differential cubin tester for GPU compilers"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
-authors = [{name = "gpudiff contributors"}]
+authors = [{name = "Garrick Wagner", email = "garrick.wagner@gmail.com"}]
 keywords = ["cuda", "ptx", "sass", "compiler", "differential-testing", "gpu", "nvidia"]
 classifiers = [
     "Development Status :: 3 - Alpha",
