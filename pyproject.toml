@@ -26,8 +26,8 @@ dependencies = []
 gpudiff = "gpudiff:main"
 
 [project.urls]
-Homepage = "https://github.com/garrick99/gpudiff"
-Issues = "https://github.com/garrick99/gpudiff/issues"
+Homepage = "https://github.com/garrick247/gpudiff"
+Issues = "https://github.com/garrick247/gpudiff/issues"
 
 [tool.setuptools]
 py-modules = ["gpudiff"]
