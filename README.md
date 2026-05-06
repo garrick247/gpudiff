@@ -11,7 +11,7 @@ the outputs. Get a per-kernel verdict (`BYTE_MATCH` / `MAJOR_DIFF` /
 From source:
 
 ```bash
-git clone https://github.com/garrick99/gpudiff
+git clone https://github.com/garrick247/gpudiff
 cd gpudiff
 pip install -e .
 ```
